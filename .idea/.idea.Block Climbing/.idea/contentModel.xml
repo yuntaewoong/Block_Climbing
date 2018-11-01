@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yy\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Block Climbing.1974589306.00" t="ExcludeRecursive" />
+    <e p="C:\Users\yy\Desktop\unity5\project\Block Climbing" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="BlockBreaker.cs" t="Include" />
+          <e p="BlockMaker.cs" t="Include" />
+          <e p="Blocks.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="DeathBlock.cs" t="Include" />
+          <e p="GameOverZone.cs" t="Include" />
+          <e p="GravityReverseBlock.cs" t="Include" />
+          <e p="IceBlock.cs" t="Include" />
+          <e p="LavaBlock.cs" t="Include" />
+          <e p="LevelDesign.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="SceneLinker.cs" t="Include" />
+          <e p="SoundManager.cs" t="Include" />
+          <e p="Star.cs" t="Include" />
+          <e p="StarMaker.cs" t="Include" />
+          <e p="StickyBlock.cs" t="Include" />
+          <e p="UiManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Block Climbing.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
