@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/BlockSurvive_GamePlay.unity
+- path: Assets/_Scenes/BlockSurvive_StartMenu.unity
   isLoaded: 1
   isActive: 1
