@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/yy/Desktop/unity5/project/Block Climbing/Block Climbing.exe
+C:/Users/yy/Documents/GitHub/Block_Survive/Block_Survive.exe
 SceneListBegin?
 Assets/_Scenes/BlockSurvive_StartMenu.unity
 Assets/_Scenes/BlockSurvive_Guide.unity

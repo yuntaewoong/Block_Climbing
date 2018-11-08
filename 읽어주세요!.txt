@@ -1,0 +1,5 @@
+게임 실행 : Block_Survive.exe 클릭후 
+해상도 800 x 600 선택 
+windowed 선택
+
+재밌게 해주세요!
