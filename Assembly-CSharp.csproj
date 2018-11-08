@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{11CFD8C5-53DC-6FD4-EC70-C95DD30AA52D}</ProjectGuid>
+    <ProjectGuid>{B68334CB-1F2F-E074-63D8-6263A4A56CD3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -78,10 +78,10 @@
     <Compile Include="Assets\_Scripts\StickyBlock.cs" />
     <Compile Include="Assets\_Scripts\UiManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/yy/Desktop/unity5/project/Block Climbing/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/yy/Documents/GitHub/Block_Survive/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/yy/Desktop/unity5/project/Block Climbing/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/yy/Documents/GitHub/Block_Survive/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

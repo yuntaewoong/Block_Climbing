@@ -1610,7 +1610,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 7.1442685, y: -0.14550781}
+  m_Offset: {x: 7.2639694, y: -0.14550781}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1621,7 +1621,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.7528143, y: 12.786003}
+  m_Size: {x: 0.51341295, y: 12.786003}
   m_EdgeRadius: 0
 --- !u!1 &682083409
 GameObject:
@@ -2308,7 +2308,7 @@ Transform:
   m_GameObject: {fileID: 1054616868}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.004, y: -0.11, z: 10}
-  m_LocalScale: {x: 0.61, y: 0.6549789, z: 1}
+  m_LocalScale: {x: 0.8, y: 0.6549789, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
   m_RootOrder: 6
@@ -3089,11 +3089,11 @@ MonoBehaviour:
     cameraSpeedMaximum: 5
     cameraLastTimeMinimum: 5
     cameraLastTimeMaximum: 8
-    basicBlockChance: 2
-    gravityReverseBlockChance: 1
+    basicBlockChance: 3
+    gravityReverseBlockChance: 2
     gravityReverseDoubleBlockChance: 1
     stickyBlockChance: 0
-    iceBlockChance: 6
+    iceBlockChance: 3
     lavaBlockChance: 0
     deathBlockChance: 0
     backgroundSprite: {fileID: 21300000, guid: 11b62018b4cefc64f85933dfc7b21144, type: 3}
@@ -3115,7 +3115,7 @@ MonoBehaviour:
     gravityReverseDoubleBlockChance: 1
     stickyBlockChance: 0
     iceBlockChance: 0
-    lavaBlockChance: 6
+    lavaBlockChance: 3
     deathBlockChance: 0
     backgroundSprite: {fileID: 21300000, guid: 50184863d687ff144a944c12c179e99d, type: 3}
     blocksToMake:
@@ -3131,13 +3131,13 @@ MonoBehaviour:
     cameraSpeedMaximum: 5
     cameraLastTimeMinimum: 2
     cameraLastTimeMaximum: 3
-    basicBlockChance: 3
-    gravityReverseBlockChance: 1
+    basicBlockChance: 4
+    gravityReverseBlockChance: 3
     gravityReverseDoubleBlockChance: 1
     stickyBlockChance: 0
     iceBlockChance: 0
     lavaBlockChance: 0
-    deathBlockChance: 1
+    deathBlockChance: 2
     backgroundSprite: {fileID: 21300000, guid: dd5983d2b7293fe4d9814e0461416439, type: 3}
     blocksToMake:
     - {fileID: 1879652366903562, guid: 80e2dc8203f71b643b6d7bda1dd2b1fa, type: 2}
@@ -3583,7 +3583,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -8.28987, y: 0.16681099}
+  m_Offset: {x: -8.46942, y: 0.16681099}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3594,7 +3594,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 7.25379, y: 19.918533}
+  m_Size: {x: 6.8946896, y: 19.918533}
   m_EdgeRadius: 0
 --- !u!114 &1864923729
 MonoBehaviour:
@@ -3691,7 +3691,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 8.768687, y: 0.19966507}
+  m_Offset: {x: 8.948238, y: 0.19966507}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3702,7 +3702,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 8.748442, y: 19.054882}
+  m_Size: {x: 8.38934, y: 19.054882}
   m_EdgeRadius: 0
 --- !u!1 &1961711288
 GameObject:
